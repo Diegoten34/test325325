@@ -1,0 +1,33 @@
+# Entorno virtual
+venv/
+
+# VSCode
+.vscode/
+
+# Archivos del sistema Windows
+desktop.ini
+Thumbs.db
+
+# Carpetas personales de Windows (NO deben subirse)
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+Pictures/
+Videos/
+
+# Archivos de Excel, Word, PowerPoint (a menos que sean parte del proyecto)
+*.xlsx
+*.xls
+*.docx
+*.pptx
+*.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
